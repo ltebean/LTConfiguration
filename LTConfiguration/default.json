@@ -1,0 +1,9 @@
+{
+    "title":"default title",
+    "homePage": {
+        "cellOrder":[
+                     "cell1",
+                     "cell2"
+                     ]
+    }
+}
